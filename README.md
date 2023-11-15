@@ -1,2 +1,3 @@
-# Bookschain.Network
-Bookschain p2p network
+# BooksChain Network Repository
+
+## This project smart contract for bookschain operations
